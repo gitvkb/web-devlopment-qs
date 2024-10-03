@@ -1,1 +1,3 @@
-my name
+"this is file 1"
+Doraemon
+nobita
